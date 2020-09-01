@@ -1,0 +1,2 @@
+# Folder-Lurfn
+Carpetas Thunar
