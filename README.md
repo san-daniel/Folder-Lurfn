@@ -14,3 +14,5 @@ Para usar el tema de iconos que más te guste en lugar de Papirus-Dark, modifica
 
 
 **Tema Recomendado**: [Juno-Ocean](https://www.xfce-look.org/p/1280977/)
+
+**Para installar Papirus-Dark** ``` wget -qO- https://git.io/papirus-icon-theme-install | sh ```
